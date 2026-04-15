@@ -25,7 +25,6 @@ I’m a Data Analyst passionate about analyzing and visualizing data to uncover 
 
 ## ⚙️ Tech Stack & Tools
 
-## ⚙️ Tech Stack
 
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
